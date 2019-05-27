@@ -4,3 +4,5 @@ usando Visual Basic 2015, cada grupo debera desarrollar una aplicacion de escrit
 Requisitos para el tp, todos tienen que generar su propio branch editar algo hacer el pullrequest,( resolviendo los merge conflicts)
 
 prueba de edicion
+
+HOLA SOY FIO
