@@ -5,6 +5,4 @@ Requisitos para el tp, todos tienen que generar su propio branch editar algo hac
 
 prueba de edicion
 
-HOLA SOY FIO
 
-# Y YO SOY NACHO
