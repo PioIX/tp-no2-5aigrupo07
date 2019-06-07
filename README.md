@@ -9,8 +9,4 @@ prueba de edicion
 Sere
 
 
-HOLLLLLLLLLLLLLAAA
-
-
-
 sere todos te odian <3
